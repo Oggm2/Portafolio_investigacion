@@ -1,0 +1,45 @@
+ticker,sector
+AAPL,Tecnología
+MSFT,Tecnología
+NVDA,Tecnología
+AVGO,Tecnología
+LLY,Salud
+UNH,Salud
+JNJ,Salud
+ABBV,Salud
+JPM,Financiero
+V,Financiero
+MA,Financiero
+BAC,Financiero
+AMZN,Consumo Discrecional
+TSLA,Consumo Discrecional
+HD,Consumo Discrecional
+MCD,Consumo Discrecional
+GOOGL,Servicios de Comunicación
+META,Servicios de Comunicación
+NFLX,Servicios de Comunicación
+DIS,Servicios de Comunicación
+WMT,Consumo Básico
+PG,Consumo Básico
+KO,Consumo Básico
+PEP,Consumo Básico
+CAT,Industrial
+GE,Industrial
+HON,Industrial
+UNP,Industrial
+XOM,Energía
+CVX,Energía
+COP,Energía
+SLB,Energía
+NEE,Servicios Públicos
+DUK,Servicios Públicos
+SO,Servicios Públicos
+D,Servicios Públicos
+PLD,Bienes Raíces
+AMT,Bienes Raíces
+EQIX,Bienes Raíces
+SPG,Bienes Raíces
+LIN,Materiales
+SHW,Materiales
+APD,Materiales
+ECL,Materiales
