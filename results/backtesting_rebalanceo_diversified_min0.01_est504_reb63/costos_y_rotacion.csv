@@ -1,0 +1,5 @@
+,Rotación promedio por rebalanceo,Costo total acumulado,Rebalanceos con respaldo
+Markowitz Max Sharpe (max15%),0.4209469097410511,0.01194461965326733,0
+Markowitz Max Sharpe (max10%),0.38061174025667976,0.010895905246673672,0
+Markowitz Min Vol (max15%),0.21437354586514926,0.006573712192493881,0
+Equal Weight (rebalanceado),0.09968965669023354,0.0035919310739460724,0
